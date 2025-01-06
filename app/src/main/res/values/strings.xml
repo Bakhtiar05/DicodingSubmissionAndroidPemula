@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyAppSubmission</string>
+
+    
+    <string name="name_food">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="price">Harga</string>
+    <string-array name="food_name">
+        <item>Ayam Bakar</item>
+        <item>Pecel Ayam</item>
+        <item>Sate Madura</item>
+        <item>Tempe Mendoan</item>
+        <item>Pecel Lele</item>
+        <item>Soto Ayam</item>
+        <item>Soto Kambing</item>
+        <item>Soto Sapi</item>
+        <item>Es Teh Manis</item>
+        <item>Es Kelapa</item>
+    </string-array>
+    <string-array name="food_description">
+        <item>Ayam panggang berbumbu khas dengan rasa gurih manis</item>
+        <item>Ayam goreng dengan sambal pedas, lalapan, dan nasi</item>
+        <item>Sate ayam atau kambing dengan saus kacang manis</item>
+        <item>Tempe tipis berbalut tepung, digoreng setengah matang</item>
+        <item>Lele goreng dengan sambal terasi dan lalapant</item>
+        <item>Sup ayam dengan kuah bening, suwiran ayam, dan telurt</item>
+        <item>Sup kambing berkuah kental dengan rempah dan daging kambing</item>
+        <item>Sup sapi berkuah kaldu kaya dengan daging sapi empuk</item>
+        <item>Teh hitam manis dengan es batu, segar dan dingin</item>
+        <item>Air kelapa muda dengan daging kelapa dan es batu</item>
+    </string-array>
+    
+    <integer-array name="food_photo">
+        <item>@drawable/ayam_bakar</item>
+        <item>@drawable/pecel_ayam</item>
+        <item>@drawable/sate_madura</item>
+        <item>@drawable/tempe</item>
+        <item>@drawable/pecel_lele</item>
+        <item>@drawable/soto_ayam</item>
+        <item>@drawable/soto_kambing</item>
+        <item>@drawable/soto_sapi</item>
+        <item>@drawable/esteh</item>
+        <item>@drawable/eskelapa</item>
+    </integer-array>
+    <string-array name="food_price">
+        <item>Rp.100.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.300.000</item>
+        <item>Rp.400.000</item>
+        <item>Rp.500.000</item>
+        <item>Rp.600.000</item>
+        <item>Rp.700.000</item>
+        <item>Rp.800.000</item>
+        <item>Rp.900.000</item>
+        <item>Rp.1000.000</item>
+    </string-array>
+</resources>
